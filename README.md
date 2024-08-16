@@ -1,6 +1,6 @@
 # Technical Assessment(Codematic) Project using Django(Backend) + React (Frontend)
 
-## The YouTube API key hardcoded into this project is just for illustration purpose and will be invalid after a few days. In real world/production environment, you should not hardcode sensitive info(secrets), hence a .env file should be used
+## ALERT!!! The YouTube API key hardcoded into this project is just for illustration purpose and will be invalid after a few days. In real world/production environment, you should not hardcode sensitive info(secrets), hence a .env file should be used
 
 ## Overview
 
